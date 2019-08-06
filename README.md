@@ -11,7 +11,7 @@ In images, objects can be localized by object detection. Foreground detection ca
 PS: This work was done as a part of course projects for the courses Deep Learning and Digital Video Processing, the reports for the same have also been uploaded to this repository. 
 <br /><br />
 **Contents of the repository:** <br /><br />
-implementation.ipynb: Implementation of the paper  Friedman, N., Russell, S. (1997, August). Image segmentation in video sequences: A probabilistic approach. In Proceedings of the Thirteenth conference on Uncertainty in artiﬁcial intelligence (pp. 175-181). Morgan Kaufmann Publishers Inc.<br /><br />
+implementation.ipynb: Implementation of the paper "Friedman, N., Russell, S. (1997, August). Image segmentation in video sequences: A probabilistic approach. In Proceedings of the Thirteenth conference on Uncertainty in artiﬁcial intelligence (pp. 175-181). Morgan Kaufmann Publishers Inc".<br /><br />
 DL_ProjectReport: Deep Learning course project report<br /><br />
 DVP_ProjectReport: Digital Video Processing course project report<br /><br />
 ImageAnalysis.ipynb: Code for object transfiguration in images using object detection bounding boxes <br /><br />
