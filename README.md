@@ -1,6 +1,6 @@
 # Object Transfiguration with CycleGAN: Resolving background distortions in images and videos
 <br /><br />
-**Technical Report: resolveBgDistortionsCycleGAN.pdf**
+**Technical Report: resolveBgDistortionsCycleGAN.pdf** 
 <br /><br />
 **Abstract:**
 <br /><br />
